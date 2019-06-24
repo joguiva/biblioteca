@@ -1,0 +1,148 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin",
+      "id": 1
+    }
+  ],
+  "members": [
+    {
+      "id": 1,
+      "name": "Fernando",
+      "surname": "Godoy",
+      "create": "07/04/2018",
+      "historical": 29,
+      "actual": [
+        2, 4
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Agustín",
+      "surname": "Meriles",
+      "create": "10/06/2018",
+      "historical": 1,
+      "actual": []
+    },
+    {
+      "id": 3,
+      "name": "Jorge",
+      "surname": "Valdez",
+      "create": "01/06/2018",
+      "historical": 108,
+      "actual": [
+        1, 5
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Sergio",
+      "surname": "Girón",
+      "create": "02/06/2018",
+      "historical": 8,
+      "actual": []
+    },
+    {
+      "id": 5,
+      "name": "Joaquín",
+      "surname": "Alvarado",
+      "create": "02/06/2018",
+      "historical": 2,
+      "actual": []
+    },
+    {
+      "id": 6,
+      "name": "Débora",
+      "surname": "Sudañéz",
+      "create": "01/06/2018",
+      "historical": 209,
+      "actual": [
+        2, 3
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Josué",
+      "surname": "Molloja",
+      "create": "05/06/2018",
+      "historical": 4,
+      "actual": []
+    },
+    {
+      "id": 8,
+      "name": "Darío",
+      "surname": "Condorí",
+      "create": "09/06/2018",
+      "historical": 6,
+      "actual": []
+    },
+    {
+      "id": 9,
+      "name": "Werner",
+      "surname": "Blank",
+      "create": "01/06/2018",
+      "historical": 18,
+      "actual": [
+        3
+      ]
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Psicológicamente hablando: Un recorrido por las maravillas de la mente",
+      "author": "Adrián Triglia, Bertrand Regader, Jonathan García-Allen",
+      "editorial": "Editorial Planeta",
+      "year": "2016",
+      "synopsis": "¿Qué es la psicología? ¿Hasta qué punto es científica? ¿Qué es la consciencia? ¿Y los instintos?<br>Estas son algunas de las muchas preguntas que se plantean todas aquellas personas curiosas y con interés en el mundo de la psicología y son, también, algunas de las cuestiones que se tratan en este libro.<br>A través de estas páginas podrás realizar un recorrido desde los orígenes de la psicología y las dudas fundamentales con las que comienza el estudio de la conducta humana, hasta las investigaciones recientes en este ámbito, pasando por las principales corrientes psicológicas y los personajes más destacados de esta disciplina. Además, aprenderás algunos de los principios fundamentales acerca de cómo actuamos, cómo sentimos y cómo nos relacionamos. En definitiva, este es un libro pensado para que conozcas de forma amena la psicología y sus temas de estudio más interesantes.<br>Psicología y Mente nació siendo un humilde blog en el que Bertrand Regader publicaba artículos de divulgación sobre psicología y neurociencias. Dos años más tarde, se ha convertido en la revista digital en castellano más consultada en su ámbito, con 3 millones de visitas mensuales y en la cual participan más de 100 autores y colaboradores.",
+      "quantity": 3,
+      "location": "Pasillo 3, Estanteria 2, Repisa 4",
+      "img": "https://static6planetadelibroscom.cdnstatics.com/usuaris/libros/fotos/216/m_libros/portada_psicologicamente-hablando_jonathan-garcia-allen_201606020940.jpg"
+    },
+    {
+      "id": 2,
+      "title": "La casa alemana",
+      "author": "Annette Hess",
+      "editorial": "Editorial Planeta",
+      "year": "2016",
+      "synopsis": "La vida de Eva Bruhn gira en torno a La casa alemana, el restaurante tradicional que regentan sus padres y en el que la familia comparte las pequeñas cosas del día a día: desde los entresijos de su trabajo en una agencia de traducción hasta el anhelo de que su novio se decida por fin a pedirle su mano a su padre.<br>Pero en 1963 va a celebrarse en Frankfurt el primer juicio de Auschwitz, y el destino hace que Eva acabe colaborando con la fiscalía como intérprete, a pesar de la oposición de su familia. A medida que traduce los testimonios de los supervivientes, descubre la inmensidad y el horror de lo que sucedió en los campos de concentración y una parte de la historia reciente de la que nadie le ha hablado nunca. ¿Por qué todos insisten en dejarla atrás? ¿Por qué faltan fotografías en el álbum familiar? ¿Es posible vivir igual cuando se atisba la verdad?",
+      "quantity": 1,
+      "location": "Pasillo 1, Estanteria 2, Repisa 1",
+      "img": "https://static2planetadelibroscom.cdnstatics.com/usuaris/libros/fotos/292/m_libros/portada_la-casa-alemana_annette-hess_201902051543.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Memorias de una salvaje",
+      "author": "Srta. Bebi",
+      "editorial": "Editorial Planeta",
+      "year": "2019",
+      "synopsis": "K tiene 19 años y una vida un tanto peculiar. Cuando su padre es asesinado en un ajuste de cuentas, se ve obligada a compaginar sus estudios con un trabajo muy poco convencional: el de recepcionista y chica de los recados en un local de alterne clandestino. Bajo la amenaza de los proxenetas y la asfixia de la deuda, vivirá de cerca los horrores que el sistema de la trata de mujeres conlleva. La experiencia la llevará a gestar una metamorfosis que marcará su paso de la adolescencia a la edad adulta.<br>Las mujeres que allí conoce y la violencia intrínseca al mundo criminal —que también sentirá en sus propias carnes— hará que comience a pensar en defenderse. Para ello acudirá al club de boxeo de Ram, un chico al que la violencia de género también le ha marcado la vida. Pese a las corazas que ambos portan, la curiosidad de este le llevará a interesarse y preocuparse por ella hasta hacerla pensar que quizá sí existan los hombres que aman a las mujeres.<br>Pero un desafortunado suceso hará que las luces de neón comiencen a parpadear.",
+      "quantity": 2,
+      "location": "Pasillo 1, Estanteria 2, Repisa 2",
+      "img": "https://static5planetadelibroscom.cdnstatics.com/usuaris/libros/fotos/275/m_libros/portada_memorias-de-una-salvaje_srta-bebi_201810251221.jpg"
+    },
+    {
+      "id": 4,
+      "title": "La conquista de América contada para escépticos",
+      "author": "Juan Eslava Galán",
+      "editorial": "Editorial Planeta",
+      "year": "2019",
+      "synopsis": "Sobre la turbulenta relación entre España y América y sus orígenes se ha escrito mucho, pero hasta ahora no habíamos podido disfrutar de la voz de Eslava Galán para contarnos esta historia recurrente, llena de contradicciones, alianzas, traiciones y desencuentros. Detrás de la historia que todos conocemos, están las vidas de los personajes que la vivieron e hicieron que sucediera.<br>En este nuevo libro, Juan Eslava Galán expone las circunstancias de la conquista del Nuevo Mundo, presentándonos a los personajes más importantes que tomaron parte en ella. De forma detallada pero amena, expone desde los problemas de abastecimiento de especias orientales y oro, principales fuentes de riqueza de la época, que padecía Europa (presentado como un diálogo casual entre un cónsul flamenco y un mercader veneciano hacia 1480), hasta la conquista de buena parte de América por los españoles hacia el año 1550.<br>Presentados aludiendo frecuentemente a los textos de los cronistas de Indias y con ágiles diálogos entre personajes históricos y otros de ficción, podríamos estar ante un ensayo novelado en el estilo que Eslava Galán ha empleado en otras obras suyas de éxito, como la serie de «Años del Miedo», «Alpargata al Seiscientos », o la serie de los ensayos «para escépticos».",
+      "quantity": 3,
+      "location": "Pasillo 2, Estanteria 1, Repisa 4",
+      "img": "https://static3planetadelibroscom.cdnstatics.com/usuaris/libros/fotos/293/m_libros/portada_la-conquista-de-america-contada-para-escepticos_juan-eslava-galan_201902281357.jpg"
+    },
+    {
+      "id": 5,
+      "title": "La amiga estupenda",
+      "author": "Elena Ferrante",
+      "editorial": "Lumen",
+      "year": "2019",
+      "synopsis": "Con La amiga estupenda, Elena Ferrante inaugura una saga deslumbrante que tiene como telón de fondo la ciudad de Nápoles a mediados del siglo pasado y como protagonistas a Lenù y Lila, dos jóvenes mujeres que están aprendiendo a gobernar su vida en un entorno donde la astucia, antes que la inteligencia, es el ingrediente de todas las salsas.<br>La relación tempestuosa entre Lila y Lenù nos muestra la realidad de un barrio habitado por gente humilde que acata sin rechistar la ley del más fuerte. Los que llenan estas páginas con sus risas, sus gestos y sus palabras son hombres y mujeres de carne y hueso, que nos sacuden por la fuerza y la urgencia de sus emociones.<br>La primera novela italiana en décadas que, según The Guardian, se merece el Premio Nobel ha conquistado a más de treinta millones de lectores y ha sido llevada a la televisión en una gran serie.",
+      "quantity": 1,
+      "location": "Pasillo 2, Estanteria 4, Repisa 1",
+      "img": "https://static.megustaleer.com/images/libros_200_x/EH421449.jpg"
+    }
+  ]
+}
